@@ -93,6 +93,10 @@ h1{
     #img2, #img3{
         width: 100%;
     } 
+    
+    #container{
+        width: 92%;
+    }
     #box01{
         margin-bottom: 0;
     }
